@@ -8,10 +8,7 @@
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+Experienced Data Scientist with a passion for solving complex problems using machine learning, deep learning, and statistical analysis. Expertise in Natural Language Processing, Language Modeling, and leveraging Text-based Generative AI. Proven track record of delivering high-quality insights and solutions to clients from diverse industries. Excellent communicator with the ability to explain technical concepts to non-technical audiences.
 
 ## Working Experience
 
